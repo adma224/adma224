@@ -3,11 +3,11 @@
 I'm an engineer based in Costa Rica, passionate about building scalable systems, deploying machine learning models in real-world environments, and exploring the intersection of ethics and AI.
 
 ## :wrench: Focus
-- 🛠️ Cloud Engineering
+- :cloud: Cloud Engineering
 - ⚙️ DevOps / Platform Engineering
 - 🤖 Machine Learning Engineering
-- 📦 MLOps
-- 🔗 Solutions Engineering
+- :bar_chart: MLOps
+- :construction_worker: Solutions Engineering
 
 ---
 
@@ -24,8 +24,8 @@ I'm an engineer based in Costa Rica, passionate about building scalable systems,
 ## 🌱 Currently Working On
 
 - An A/B model inference pipeline using:
-  - AWS SageMaker, Lambda, API Gateway, Route 53
-  - GitHub Actions, CDK, and CloudWatch
+   - AWS SageMaker, Lambda, API Gateway, Route 53
+   - GitHub Actions, CDK, and CloudWatch
 - Building infrastructure as code with CI/CD from Phase 1
 - Logging, cost optimization, feedback loops, and MLOps workflows
 
