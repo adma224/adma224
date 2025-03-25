@@ -4,51 +4,22 @@ I'm an engineer based in Costa Rica, passionate about building scalable systems,
 
 ## :wrench: Focus
 - :cloud: Cloud Engineering
-- ⚙️ DevOps / Platform Engineering
-- 🤖 Machine Learning Engineering
 - :bar_chart: MLOps
 - :construction_worker: Solutions Engineering
 
 ---
 
-## 🧠 Interests
+## 🚀 Featured Projects
 
-- Cloud infrastructure & automation (AWS CDK, IaC)
-- A/B inference systems and real-time ML APIs
-- CI/CD pipelines and secure GitHub Actions workflows
-- Ethical AI and accessible deployment practices
-- API integration and customer-focused engineering
+### 🔁 [A/B Model Inference Pipeline](https://github.com/adma224/ml-inference-pipeline-aws)
+A production-style multi-phase project using AWS SageMaker, Lambda, API Gateway, and GitHub Actions to deploy and route inference traffic between two generative models. Includes CI/CD, cost tracking, feedback logging, and dynamic architecture documentation.
 
----
+**Tech:** `AWS CDK` • `SageMaker` • `Lambda` • `Route 53` • `GitHub Actions` • `Python` • `Boto3`
 
-## 🌱 Currently Working On
+### 🖼️ [WordPress on AWS Fargate](https://github.com/adma224/serverless-containerized-wordpress)
+A containerized WordPress site deployed using AWS Fargate, with an Aurora serverless backend, EFS storage, and Route 53 for DNS. Provisioned entirely via CloudFormation templates.
 
-- An A/B model inference pipeline using:
-   - AWS SageMaker, Lambda, API Gateway, Route 53
-   - GitHub Actions, CDK, and CloudWatch
-- Building infrastructure as code with CI/CD from Phase 1
-- Logging, cost optimization, feedback loops, and MLOps workflows
-
----
-
----
-
-## 🧰 Tools I Use
-
-**Cloud & Infra**  
-`AWS CloudFormation`• `AWS CDK` • `SageMaker` • `API Gateway` • `Lambda` • `CloudWatch` • `Route 53` • `DynamoDB` • `IAM` • `GitHub Actions` • `Azure` • `Docker` • `Fargate`
-
-**DevOps & CI/CD**  
-`GitHub Actions` • `AWS CLI` • `CDK Synth/Deploy` • `cfn-lint` • `Flake8` • `Pytest` • `Git` • `Boto3`
-
-**ML & Deployment**  
-`HuggingFace Transformers` • `SageMaker Training Jobs` • `Model Registry` • `QuickSight` • `Pandas` • `PyTorch`
-
----
-
-## 💻 Languages I Use
-
-`Python` • `C++` • `C#` • `Bash` • `LaTeX` (math & academic docs)
+**Tech:** `AWS Fargate` • `Aurora Serverless` • `EFS` • `Route 53` • `CloudFormation`
 
 ---
 
