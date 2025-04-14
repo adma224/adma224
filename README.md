@@ -3,9 +3,9 @@
 I'm a AWS Cloud Architect and Machine Learning Engineer based in Costa Rica, passionate about building scalable systems, deploying machine learning models in real-world environments, and exploring the intersection of ethics and AI.
 
 ## :wrench: Focus
-- :cloud: Cloud Engineering
-- :bar_chart: MLOps
-- :construction_worker: Solutions Engineering
+- AWS Cloud Engineering
+- Machine Learning & MLOps
+- Technical Solutions Delivery
 
 ---
 
@@ -23,8 +23,8 @@ A containerized WordPress site deployed using AWS Fargate, with an Aurora server
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
-📍 Based in San José, Costa Rica  
-💼 [LinkedIn](https://www.linkedin.com/in/adrian-murillo-araya/)  
-✉️ [adrianmurilloaraya@gmail.com](adrianmurilloaraya@gmail.com)  
+Based in San José, Costa Rica  
+[LinkedIn](https://www.linkedin.com/in/adrian-murillo-araya/)  
+[adrianmurilloaraya@gmail.com](adrianmurilloaraya@gmail.com)  
