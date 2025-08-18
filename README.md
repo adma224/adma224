@@ -12,7 +12,7 @@ I'm an AWS Cloud Architect and Machine Learning Engineer based in Costa Rica, fo
 
 ---
 
-## Project Portfolio
+## Featured Projects
 
 ### [🧠 Generative ML Inference Pipeline on AWS](https://github.com/adma224/ml-inference-pipeline-aws)
 A modular, production-style ML inference pipeline built with SageMaker, Lambda, and API Gateway. Enables real-time A/B testing between models with feedback logging, cost tracking, and CI/CD automation. Designed to scale, document itself, and adapt to evolving business goals.
@@ -30,7 +30,7 @@ A scalable, secure, multi-AZ WordPress setup using AWS Fargate for containers, A
 
 ---
 
-## More Projects (Coming Soon)
+## Minor Projects 
 I'm currently building and publishing freelance-style infrastructure modules and ML pipelines tailored for:
 - Real-time content generation
 - Secure serverless APIs
@@ -39,11 +39,6 @@ I'm currently building and publishing freelance-style infrastructure modules and
 ---
 
 ## 📬 Work With Me
-
-I'm open to:
-- Freelance / contract roles (15–20 hrs/week)
-- One-off consulting sessions or infrastructure audits
-- Ongoing support for AWS or MLOps deployments
 
 📍 Based in San José, Costa Rica – available for remote work worldwide.  
 📫 [adrianmurilloaraya@gmail.com](mailto:adrianmurilloaraya@gmail.com)  
