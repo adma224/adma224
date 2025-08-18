@@ -22,7 +22,7 @@ A modular, production-style ML inference pipeline built with SageMaker, Lambda, 
 
 ---
 
-### [🖥️ WordPress Infrastructure on AWS Fargate](https://github.com/adma224/serverless-containerized-wordpress)
+### [🖥️ Serverless Multi-AZ WordPress Infrastructure on AWS Fargate](https://github.com/adma224/serverless-containerized-wordpress)
 A scalable, secure, multi-AZ WordPress setup using AWS Fargate for containers, Aurora Serverless for the database, and EFS for file persistence. Built for rapid deployment via CloudFormation, with DNS handled by Route 53.
 
 **Tech:** `CloudFormation` • `Fargate` • `Aurora Serverless` • `Route 53` • `EFS` • `ALB` • `VPC`  
