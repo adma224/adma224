@@ -17,7 +17,7 @@ I'm an AWS Cloud Architect and Machine Learning Engineer based in Costa Rica, fo
 ### [🧠 Generative ML Inference Pipeline on AWS](https://github.com/adma224/ml-inference-pipeline-aws)
 A modular, production-style ML inference pipeline built with SageMaker, Lambda, and API Gateway. Enables real-time A/B testing between models with feedback logging, cost tracking, and CI/CD automation. Designed to scale, document itself, and adapt to evolving business goals.
 
-**Tech:** `SageMaker Serverless` • `Lambda` • `API Gateway` • `Aurora` • `GitHub Actions` • `CDK` • `CloudWatch`  
+**Tech:** `CloudFormation` • `SageMaker Serverless` • `Lambda` • `API Gateway` • `Aurora` • `GitHub Actions` • `CloudWatch`  
 **Role:** Full-stack cloud engineer – architecture, implementation, and infrastructure automation.
 
 ---
