@@ -14,7 +14,7 @@ I'm an AWS Cloud Architect and Machine Learning Engineer based in Costa Rica and
 
 ## Featured Projects
 
-### [Kubernetes Cluster in AWS with Terraform and Secure CI/CD](https://https://github.com/adma224/cloud-native-eks-platform)
+### [Kubernetes Cluster in AWS with Terraform and Secure CI/CD](https://github.com/adma224/cloud-native-eks-platform)
 A production-style VPC and Amazon EKS cluster entirely with Terraform, including public/private subnets, NAT, and routing. A GitHub Actions pipeline (OIDC-secured, no long-lived keys) builds and pushes a Flask container to Amazon ECR, then deploys it onto the cluster.
 
 **Tech:** `Kubernetes - EKS` • `Terraform` • `CI/CD` • `GitHub Actions` • `OpenID`  
